@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,600;1,700&display=swap');
+
+.nav-title {
+    font-size: 23px;
+    font-family: 'Leckerli One', cursive;
+    color: #4d2600 !important;
+}
+
+.nav-text-custom{
+    color: #4d2600 !important;
+    font-weight: 500;
+}
+
+.nav-img {
+    height: 40px;
+    width: 40px;
+}
+
+.banner-section-bg-container {
+    background-image: url("images/home-bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: #ffffff;
+    padding-left: 15%;
+}
+
+.custom-button {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+    border-width: 2px;
+    height: 50px;
+    width: 130px;
+}
+
+.banner-subtitle {
+    font-weight: 400;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.banner-heading {
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.wcu-title {
+    font-size: 35px;
+    font-weight: 400;
+    color: #4d2600;
+}
+
+.wcu-description {
+    color: #999999;
+    font-size: 16px;
+}
+
+.wcu-features {
+    height: 130px;
+    width: 140px;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 10px;
+    border-radius: 5px;
+    color: #4d2600;
+}
+
+.wcu-icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.menu-section-bg-container {
+    background-color: #F4F4F4;
+}
+
+
+.menu-section-heading {
+    color: #4d2600;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: "Nunito Sans", sans-serif;
+    padding-bottom: 35px;
+}
+
+.menu-card {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    border-radius: 16px;
+}
+
+.menu-item-img {
+    height: 100px;
+    width: 100px;
+}
+
+.menu-item-title {
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
+    margin-top: 16px;
+    font-size: 25px;
+}
+
+.menu-item-description {
+    color: #999999;
+    font-size: 16px;
+}
+
+.read-more-btn {
+    border-color: #4d2600;
+    background-color: transparent;
+    color: #4d2600;
+    border-radius: 5px;
+    height: 50px;
+    width: 130px;
+    margin-top: 25px;
+}
+
+.read-more-btn:hover {
+    color: #ffffff;
+    background-color: #4d2600;
+}
+
+.menu-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.testimonial-text {
+    font-size: 20px;
+    margin-bottom: 80px;
+    padding: 0 100px;
+}
+
+.testimonials-section-bg-container {
+    background-color: #F4F4F4;
+}
+
+.testimonial-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.testimonial-star-rating {
+    color: #4d2600;
+}
+
+.contact-card {
+    text-align: center;
+    border-color: #4d2600;
+    border-width: 1px;
+    border-style: solid;  
+}
+
+.contact-img-box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4d2600;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.contact-logo {
+    color: #4d2600;
+    margin-top: 13px;
+    font-size: 20px;
+
+}
+
+.contact-card-text {
+    color: #999999;
+}
+
+.footer-section-bg-container {
+    background-color: #4d2600;
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer-title {
+    color: #ffffff;
+    font-family: 'Leckerli One', cursive;
+    font-size: 23px;
+}
+
+.footer-img {
+    height: 60px;
+}
+
+.footer-title:hover {
+    color: #F4F4F4;
+}
+
+.footer-text {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 18px;
+}
